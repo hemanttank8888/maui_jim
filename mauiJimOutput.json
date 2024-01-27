@@ -1,0 +1,4159 @@
+[
+    {
+        "productName": "2ND REEF",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "607-02",
+                "frame": "Satin Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B607-14",
+                "frame": "Brushed Dark Gunmetal",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H607-01",
+                "frame": "Brushed Chocolate",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "ADRIFT",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS808-02",
+                "frame": "Black Gloss with Shiny Gold\u00a0",
+                "lens": "Neutral Grey",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "HS808-10",
+                "frame": "Tortoise with Shiny Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$264.50"
+            }
+        ]
+    },
+    {
+        "productName": "AEKO",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "886-17",
+                "frame": "Matte Titanium",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B886-03",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H886-01",
+                "frame": "Satin Sepia",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "RM886-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "\u02bbAKAU",
+        "lensMaterial": "MauiPure\u00ae LT",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "B442-05CM",
+                "frame": "Crystal Matte",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "GM442-2M",
+                "frame": "Matte Black",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "HT442-15M",
+                "frame": "Matte Olive",
+                "lens": "Maui HT\u2122",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "P442-10M",
+                "frame": "Matte Tortoise",
+                "lens": "MAUI Sunrise",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "R442-02",
+                "frame": "Black Gloss",
+                "lens": "Maui Rose\u00ae",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "ALELELE BRIDGE",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "438-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "ALENUIHAHA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "839-11D",
+                "frame": "Grey Black Stripe",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B839-03S",
+                "frame": "Blue Black Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H839-25C",
+                "frame": "Dark Brown Stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM839-07C",
+                "frame": "Burgundy Stripe",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "ALIKA",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "837-02",
+                "frame": "Black with Gold",
+                "lens": "Neutral Grey",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "B837-05",
+                "frame": "Crystal with Silver",
+                "lens": "Blue Hawaii",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "H837-10",
+                "frame": "Tortoise with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$264.50"
+            }
+        ]
+    },
+    {
+        "productName": "ALOHA LANE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "893-02",
+                "frame": "Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H893-10",
+                "frame": "Havana",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS893-09",
+                "frame": "Transparent Pink",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "ALULU",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "878-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "878-05",
+                "frame": "White Tokyo Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H878-10",
+                "frame": "Dark Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "AMBERJACK",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "896-02",
+                "frame": "Matte Black with Black rubber",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B896-03",
+                "frame": "Matte Dark Navy with Black rubber",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H896-10",
+                "frame": "Matte Tortoise with Black rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "ANEMONE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "606-02",
+                "frame": "Satin Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B606-14",
+                "frame": "Brushed Dark Gunmetal",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H606-01",
+                "frame": "Brushed Chocolate",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "ANUENUE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "448-11",
+                "frame": "Translucent Grey",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B448-03",
+                "frame": "Matte Blue",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H448-01",
+                "frame": "Translucent Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "RM448-02",
+                "frame": "Black Gloss",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "BABY BEACH",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "B245-17",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "GS245-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "HS245-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "P245-16R",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "H245-1615",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H245-1620",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H245-1625",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P245-16R15",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P245-16R20",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P245-16R25",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            }
+        ]
+    },
+    {
+        "productName": "BANYANS",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -2.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -2.50",
+        "productVariants": [
+            {
+                "styleCode": "412-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$119.50"
+            },
+            {
+                "styleCode": "H412-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$119.50"
+            },
+            {
+                "styleCode": "HT412-02",
+                "frame": "Gloss Black",
+                "lens": "Maui HT\u2122",
+                "price": "$119.50"
+            },
+            {
+                "styleCode": "412-0215",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "412-0220",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "412-0225",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H412-1015",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H412-1020",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H412-1025",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "BANYANS ASIAN FIT",
+        "lensMaterial": "Maui Evolution",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "412N-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$119.50"
+            },
+            {
+                "styleCode": "H412N-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$119.50"
+            },
+            {
+                "styleCode": "HT412N-02",
+                "frame": "Gloss Black",
+                "lens": "Maui HT\u2122",
+                "price": "$119.50"
+            }
+        ]
+    },
+    {
+        "productName": "BARRIER REEF",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "B792-06C",
+                "frame": "Blue with Turquoise",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "BEACHES",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "541-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "P541-07M",
+                "frame": "Matte Brushed Burgundy",
+                "lens": "MAUI Sunrise",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "BEACHES ASIAN FIT",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "541N-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "B541N-27A",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "H541N-16A",
+                "frame": "Satin Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "P541N-07M",
+                "frame": "Matte Brushed Burgundy",
+                "lens": "MAUI Sunrise",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "BIG WAVE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "440-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H440-15T",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "BLACK CORAL",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "249-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "H249-19M",
+                "frame": "Matte Bronze",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "BLOSSOM",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS892-02",
+                "frame": "Black with Tokyo Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS892-10",
+                "frame": "Havana with Peach",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS892-09",
+                "frame": "Pink Havana with Rose",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "BREAKWALL",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "422-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$94.50"
+            },
+            {
+                "styleCode": "422-0215",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "422-0220",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "422-0225",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H422-26",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$94.50"
+            },
+            {
+                "styleCode": "H422-2615",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H422-2620",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H422-2625",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            }
+        ]
+    },
+    {
+        "productName": "BYRON BAY",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "746-02MR",
+                "frame": "Matte Black Rubber",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "746-03F",
+                "frame": "Marlin",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H746-10M",
+                "frame": "Matte Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "CASTLES",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "728-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "H728-01M",
+                "frame": "Matte Chocolate",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "CHEETAH 5",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "842-02K",
+                "frame": "Black with Crystal",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B842-27G",
+                "frame": "Translucent Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H842-10G",
+                "frame": "Tortoise with Crystal",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H842-21D",
+                "frame": "Vintage Crystal",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "R842-05B",
+                "frame": "Crystal with a Hint of Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "CLIFF HOUSE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "B247-17",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "GS247-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "HS247-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "RM247-02",
+                "frame": "Black Gloss",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "B247-1715",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "B247-1720",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "B247-1725",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H247-1615",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H247-1620",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H247-1625",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            }
+        ]
+    },
+    {
+        "productName": "CLOUD BREAK",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "HS700-10P",
+                "frame": "Tortoise with Peacock Blue",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "CRUZEM",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "864-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B864-03",
+                "frame": "Dark Translucent Blue",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H864-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM864-02A",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "EQUATOR",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "848-11",
+                "frame": "Grey Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM848-15",
+                "frame": "Matte Black with Olive Interior",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H848-10",
+                "frame": "Caramel Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM848-04",
+                "frame": "Black with Red Interior",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "GLORY GLORY",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "B833-11",
+                "frame": "Transparent Grey",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "GS833-24S",
+                "frame": "Milky Almond",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "HS833-12F",
+                "frame": "Transparent Cinnamon",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "RS833-13D",
+                "frame": "Transparent Milky Raspberry",
+                "lens": "Maui Rose\u00ae",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "GOOD FUN",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS871-02",
+                "frame": "Black with Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS871-01",
+                "frame": "Rootbeer Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS871-09",
+                "frame": "Raspberry Fade",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "GUARDRAILS",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "327-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "327-17",
+                "frame": "Silver with Blue and Light Blue",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H327-23",
+                "frame": "Metallic Gloss Copper",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "HALF MOON",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "890-17",
+                "frame": "Titanium",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B890-03",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H890-01",
+                "frame": "Satin Sepia",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM890-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "HANA BAY",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "H434-10L",
+                "frame": "Tokyo Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "HANALEI ASIAN FIT",
+        "lensMaterial": "Maui Evolution",
+        "mauiEvolution": "+3.00 to -2.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -2.50",
+        "productVariants": [
+            {
+                "styleCode": "413N-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$119.50"
+            }
+        ]
+    },
+    {
+        "productName": "HEMA",
+        "lensMaterial": "MauiPure\u00ae LT",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "443-11M",
+                "frame": "Matte Grey",
+                "lens": "Neutral Grey",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "B443-05CM",
+                "frame": "Crystal Matte",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "GM443-2M",
+                "frame": "Matte Black",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "H443-26M",
+                "frame": "Matte Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "HIKINA",
+        "lensMaterial": "MauiPure\u00ae LT",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "B445-05CM",
+                "frame": "Crystal Matte",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "HT445-15M",
+                "frame": "Matte Olive",
+                "lens": "Maui HT\u2122",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "HONI",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "GS758-11S",
+                "frame": "Grey Tortoise Stripe",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS758-22B",
+                "frame": "Sandstone with Blue",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS758-13A",
+                "frame": "Sunset",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "HONOKALANI",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "455-02",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B455-14",
+                "frame": "Translucent Grey",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H455-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "HO'OKIPA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "407-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "B407-11",
+                "frame": "Smoke Grey",
+                "lens": "Blue Hawaii",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H407-02",
+                "frame": "Gloss Black",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "R407-10",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "HO'OKIPA READER",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "B807-1115",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Blue Hawaii",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "B807-1120",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Blue Hawaii",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "B807-1125",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Blue Hawaii",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "G807-0215",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "G807-0220",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "G807-0225",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "H807-1015",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "H807-1020",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "H807-1025",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "HT807-1115",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "HT807-1120",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "HT807-1125",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "R807-1015",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "R807-1020",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$129.50"
+            },
+            {
+                "styleCode": "R807-1025",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$129.50"
+            }
+        ]
+    },
+    {
+        "productName": "HO'OKIPA UNIVERSAL FIT",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "407N-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H407N-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "HT407N-11",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "R407N-10",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "RM407N-2M",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "HO'OKIPA XLARGE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -2.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -2.50",
+        "productVariants": [
+            {
+                "styleCode": "456-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "B456-14A",
+                "frame": "Translucent Grey",
+                "lens": "Blue Hawaii",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "GM456-14",
+                "frame": "Translucent Matte Grey",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H456-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "RM456-02A",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "HOT SANDS",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "426-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "426-03",
+                "frame": "Blue",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "HUELO",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "449-11",
+                "frame": "Translucent Grey",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B449-03",
+                "frame": "Matte Blue",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H449-01",
+                "frame": "Translucent Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "RM449-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "HUKILAU",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "DBS845-02C",
+                "frame": "Dark Gunmetal",
+                "lens": "Dual Mirror Blue to Silver",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "DGS845-16",
+                "frame": "Gold Metal",
+                "lens": "Dual Mirror Gold to Silver",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "DSB845-11",
+                "frame": "Grey Metal",
+                "lens": "Dual Mirror Silver to Black",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "ISLAND EYES",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "859-11B",
+                "frame": "Titanium",
+                "lens": "Neutral Grey",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "B859-17",
+                "frame": "Matte Silver",
+                "lens": "Blue Hawaii",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "H859-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "RM859-02D",
+                "frame": "Gunmetal",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$204.50"
+            }
+        ]
+    },
+    {
+        "productName": "JOY RIDE",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "841-02K",
+                "frame": "Black with Crystal",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B841-27G",
+                "frame": "Translucent Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H841-10G",
+                "frame": "Tortoise with Crystal",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H841-21D",
+                "frame": "Vintage Crystal",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "R841-05B",
+                "frame": "Crystal with a Hint of Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "KA'ALA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "856-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H856-01",
+                "frame": "Bronze",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RM856-02",
+                "frame": "Dark Gunmetal and Green",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "KAHUNA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "162-02",
+                "frame": "Gunmetal",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "KAIWI CHANNEL",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "840-11D",
+                "frame": "Grey Black Stripe",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B840-03S",
+                "frame": "Blue Black Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H840-25C",
+                "frame": "Dark Brown Stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM840-07C",
+                "frame": "Burgundy Stripe",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "KANAHA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "409-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "KANAHA ASIAN FIT",
+        "lensMaterial": "Polycarbonate",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "409N-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H409N-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "HT409N-11",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "KANAIO COAST",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "766-02MD",
+                "frame": "Matte Soft Black with White and Blue",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B766-08C",
+                "frame": "Matte Translucent Blue Black with Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H766-10MF",
+                "frame": "Matte Tortoise Ombre",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "KAUPO GAP",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "437-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B437-03M",
+                "frame": "Matte Blue",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H437-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "RM437-04T",
+                "frame": "Red and Black Tortoise",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "KAWIKA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "257-17C",
+                "frame": "Black Gloss with Antique Pewter",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "B257-05CR",
+                "frame": "Crystal",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "H257-16C",
+                "frame": "Tortoise with Antique Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "RM257-17C",
+                "frame": "Black Gloss with Antique Pewter",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "B257-05CR15",
+                "frame": "Crystal",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "B257-05CR20",
+                "frame": "Crystal",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "B257-05CR25",
+                "frame": "Crystal",
+                "lens": "Blue Hawaii",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H257-16C15",
+                "frame": "Tortoise with Antique Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H257-16C20",
+                "frame": "Tortoise with Antique Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H257-16C25",
+                "frame": "Tortoise with Antique Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            }
+        ]
+    },
+    {
+        "productName": "KEAHI",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "873-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B873-03",
+                "frame": "Blue Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H873-10",
+                "frame": "Brown Stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "KEANAE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "H420-15T",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "KEOKEA",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "447-02",
+                "frame": "Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B447-03M",
+                "frame": "Matte Blue",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "GM447-11",
+                "frame": "Translucent Grey",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H447-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "RM447-04T",
+                "frame": "Red and Black Tortoise",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "KILA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "GS819-02A",
+                "frame": "Black with Pearl interior",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS819-12E",
+                "frame": "Cinnamon with Almond interior",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS819-13C",
+                "frame": "Plum with Dusty Rose Interior",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "KIPAHULU",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "H279-03F",
+                "frame": "Marlin",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H279-10MR",
+                "frame": "Matte Tortoise Rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "KOKI BEACH",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "433-11T",
+                "frame": "Black and Grey Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H433-15T",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "R433-28T",
+                "frame": "Purple Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H433-15T15",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "H433-15T20",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "H433-15T25",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "R433-28T15",
+                "frame": "Purple Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "R433-28T20",
+                "frame": "Purple Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "R433-28T25",
+                "frame": "Purple Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$144.50"
+            }
+        ]
+    },
+    {
+        "productName": "KOKI BEACH ASIAN FIT",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "433N-11T",
+                "frame": "Black and Grey Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H433N-15T",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "R433N-28T",
+                "frame": "Purple Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "KOKO HEAD",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "H737-10M",
+                "frame": "Matte Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "KOU",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "884-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B884-03",
+                "frame": "Navy Blue",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H884-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "R884-09",
+                "frame": "Translucent Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "LELE KAWA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "811-11D",
+                "frame": "Grey Stripe",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B811-03S",
+                "frame": "Dark Navy Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H811-25C",
+                "frame": "Brown Stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "LIGHTHOUSE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "423-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$94.50"
+            },
+            {
+                "styleCode": "423-0215",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "423-0220",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "423-0225",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H423-26",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$94.50"
+            },
+            {
+                "styleCode": "H423-2615",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H423-2620",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "H423-2625",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$114.50"
+            },
+            {
+                "styleCode": "HT423-11",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$94.50"
+            }
+        ]
+    },
+    {
+        "productName": "LIKEKE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "894-02",
+                "frame": "Black with Crystal",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B894-03",
+                "frame": "Blue to Grey gradient",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H894-10",
+                "frame": "Havana with Honey",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "LIQUID SUNSHINE",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "601-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "B601-03",
+                "frame": "Translucent Navy",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "H601-10",
+                "frame": "Tokyo Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "R601-04",
+                "frame": "Red Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "LOCAL KINE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "810-07E",
+                "frame": "Shiny Black with Grey and Maroon",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B810-53B",
+                "frame": "Soft Black with Sea Blue and Grey",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM810-27M",
+                "frame": "Soft Black with Dark Transparent Green and Light Transparent Grey",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H810-25MC",
+                "frame": "Matte Dark Transparent Brown with Tan and Cream",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "LOKELANI",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS825-02",
+                "frame": "Black with Silver",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "HS825-10",
+                "frame": "Tortoise with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "HS825-24S",
+                "frame": "Milky Almond with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "RS825-09",
+                "frame": "Bubblegum with Rose Gold",
+                "lens": "Maui Rose\u00ae",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "LOTUS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS827-02J",
+                "frame": "Gloss Black Fade",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS827-01",
+                "frame": "Chocolate Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS827-13F",
+                "frame": "Raspberry Fade",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "LYCHEE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "DSB891-02A",
+                "frame": "Black Gloss",
+                "lens": "Dual Mirror Silver to Black",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "GS891-02",
+                "frame": "Black with Tokyo Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS891-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS891-09",
+                "frame": "Translucent Light Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "MAKAHA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "405-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H405-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "MAKOA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "804-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H804-25W",
+                "frame": "Matte Brown Wood Grain",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HT804-15M",
+                "frame": "Matte Translucent Khaki Green",
+                "lens": "Maui HT\u2122",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM804-2M",
+                "frame": "Matte Black",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "MAMALU BAY",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "610-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM610-02A",
+                "frame": "Matte Black",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H610-04",
+                "frame": "Gloss Cherry Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "MAMANE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS883-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "GS883-03",
+                "frame": "Teal",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "HS883-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "MANGROVES",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "604-02",
+                "frame": "Black Gloss with Grey interior",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM604-14",
+                "frame": "Matte Dark with Light Grey interior",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H604-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM604-02A",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "MANO",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "877-02",
+                "frame": "Black with Silver stripe",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "B877-03",
+                "frame": "Dark Navy with Silver stripe",
+                "lens": "Blue Hawaii",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "H877-01",
+                "frame": "Dark Brown with Gold stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "MAVERICKS",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "B264-17",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "GS264-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "HS264-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "P264-16R",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "H264-1615",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H264-1620",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "H264-1625",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P264-16R15",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P264-16R20",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            },
+            {
+                "styleCode": "P264-16R25",
+                "frame": "Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$179.50"
+            }
+        ]
+    },
+    {
+        "productName": "MIKIOI",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "887-17",
+                "frame": "Matte Titanium",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B887-03",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H887-01",
+                "frame": "Satin Sepia",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "RM887-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "MIXED PLATE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "H721-10MR",
+                "frame": "Matte Tortoise Rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "MOKUPUNI",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "888-02",
+                "frame": "Deep Black",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B888-17",
+                "frame": "Titanium",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H888-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "MOON DOGGY",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "874-11B",
+                "frame": "Titanium",
+                "lens": "Neutral Grey",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "B874-17",
+                "frame": "Matte Silver",
+                "lens": "Blue Hawaii",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "H874-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "RM874-02D",
+                "frame": "Gunmetal",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$204.50"
+            }
+        ]
+    },
+    {
+        "productName": "NALANI",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "HS295-03T",
+                "frame": "Tortoise with White and Blue",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "RS295-10",
+                "frame": "Dark Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "NONI",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "854-02",
+                "frame": "Black Gloss with Gunmetal",
+                "lens": "Neutral Grey",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "B854-03",
+                "frame": "Navy with Silver",
+                "lens": "Blue Hawaii",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "H854-10",
+                "frame": "Tortoise with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$204.50"
+            }
+        ]
+    },
+    {
+        "productName": "NUU LANDING",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "869-02",
+                "frame": "Black Gloss with Black rubber",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B869-05",
+                "frame": "White with Navy rubber",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM869-03",
+                "frame": "Matte Teal with Aquamarine rubber",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H869-10",
+                "frame": "Tortoise with Black rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "OCEAN",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "HS723-10P",
+                "frame": "Tortoise with Peacock",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS723-12B",
+                "frame": "Tortoise with Raspberry",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "",
+        "lensMaterial": "",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": []
+    },
+    {
+        "productName": "OLILI",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS330-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS330-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS330-05",
+                "frame": "Milky Almond",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "'OLU'OLU",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS537-01F",
+                "frame": "Translucent Dark Chocolate with Blue",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS537-10A",
+                "frame": "Tortoise with Tan",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "ONE WAY",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "875-14",
+                "frame": "Grey Stripe",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B875-03",
+                "frame": "Dark Navy Stripe",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H875-10",
+                "frame": "Brown Stripe",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM875-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "ONSHORE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "798-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B798-03S",
+                "frame": "Blue Black Stripe Fade",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM798-15C",
+                "frame": "Olive Stripe Fade",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H798-01",
+                "frame": "Chocolate Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "ORCHID",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "H735-10P",
+                "frame": "Tortoise with Peacock",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "R735-12B",
+                "frame": "Tortoise with Raspberry",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "PAILOLO",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "603-02",
+                "frame": "Black",
+                "lens": "Neutral Grey",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "B603-03",
+                "frame": "Matte Navy",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "H603-10",
+                "frame": "Matte Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "RM603-14",
+                "frame": "Translucent Matte Grey",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "PAKALANA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "GS855-02",
+                "frame": "Black with Tortoise Interior",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS855-01",
+                "frame": "Chocolate with Tortoise Interior\u00a0",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS855-09",
+                "frame": "Black Cherry with Raspberry interior",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "PEAHI",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -2.50",
+        "polycarbonate": "+3.00 to -3.50",
+        "mauiBrilliant": "+3.00 to -2.50",
+        "productVariants": [
+            {
+                "styleCode": "202-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B202-2M",
+                "frame": "Black Matte Rubber",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H202-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H202-2M",
+                "frame": "Black Matte Rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "PEHU",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "602-02",
+                "frame": "Black",
+                "lens": "Neutral Grey",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "B602-03",
+                "frame": "Matte Navy",
+                "lens": "Blue Hawaii",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "H602-10",
+                "frame": "Tokyo Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$99.50"
+            },
+            {
+                "styleCode": "RM602-14",
+                "frame": "Translucent Matte Grey",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$99.50"
+            }
+        ]
+    },
+    {
+        "productName": "PLUMERIA",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "B768-02K",
+                "frame": "Black with Crystal",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "POKOWAI ARCH",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "439-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B439-11M",
+                "frame": "Translucent Matte Grey",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H439-15T",
+                "frame": "Olive Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "POOLSIDE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "GS838-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS838-21",
+                "frame": "Caramel Tiger",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS838-10",
+                "frame": "Tortoise",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "PUA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "GS865-02",
+                "frame": "Black with Gold",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "HS865-10",
+                "frame": "Tortoise with Shiny Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "RS865-09",
+                "frame": "Pink Tortoise with Rose Gold",
+                "lens": "Maui Rose\u00ae",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "PUNCHBOWL",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "219-03",
+                "frame": "Black with Blue US",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "R219-01",
+                "frame": "Chocolate Fade",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "PU\u2018U KUKUI",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "857-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "H857-01",
+                "frame": "Bronze",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "RM857-02",
+                "frame": "Dark Gunmetal",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$204.50"
+            }
+        ]
+    },
+    {
+        "productName": "RED SANDS",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "432-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B432-2M",
+                "frame": "Matte Black",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H432-11T",
+                "frame": "Grey Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "432-2M15",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "432-2M20",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "432-2M25",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "B432-2M15",
+                "frame": "Matte Black",
+                "lens": "Blue Hawaii",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "B432-2M20",
+                "frame": "Matte Black",
+                "lens": "Blue Hawaii",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "B432-2M25",
+                "frame": "Matte Black",
+                "lens": "Blue Hawaii",
+                "price": "$144.50"
+            }
+        ]
+    },
+    {
+        "productName": "RED SANDS ASIAN FIT",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "432N-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B432N-2M",
+                "frame": "Matte Black",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H432N-11T",
+                "frame": "Grey Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "R432N-28C",
+                "frame": "Purple Fade",
+                "lens": "Maui Rose\u00ae",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "ROOFTOPS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "DSB898-02",
+                "frame": "Black with Crystal",
+                "lens": "Dual Mirror Silver to Black",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "GS898-03",
+                "frame": "Blue Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "HS898-10",
+                "frame": "Black with Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "RS898-09",
+                "frame": "Pink Tortoise with Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "SANDY BEACH",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "408-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H408-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "SANDY BEACH ASIAN FIT",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "408N-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "H408N-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$109.50"
+            },
+            {
+                "styleCode": "HT408N-11",
+                "frame": "Translucent Smoke Grey",
+                "lens": "Maui HT\u2122",
+                "price": "$109.50"
+            }
+        ]
+    },
+    {
+        "productName": "SEACLIFF",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "831-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B831-02D",
+                "frame": "Gunmetal",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H831-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "SHARK'S COVE",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "605-17",
+                "frame": "Titanium",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B605-03",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H605-01",
+                "frame": "Satin Sepia",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM605-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "SHORE BREAK",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "822-06M",
+                "frame": "Matte Translucent Blue Grey Fade",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B822-02MG",
+                "frame": "Black with Grey",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H822-10MD",
+                "frame": "Matte Tortoise with Matte Trans Tan Temples",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM822-2M",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "SOUTHERN CROSS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "815-53B",
+                "frame": "Soft Black with Sea Blue and Grey",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM815-54CM",
+                "frame": "Soft Matte Khaki with Brown and Black",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H815-10MR",
+                "frame": "Matte Tortoise Rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "STARFISH",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "GS744-02T",
+                "frame": "Black with Tortoise",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS744-01T",
+                "frame": "Translucent Chocolate with Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS744-22B",
+                "frame": "Sandstone with Blue",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "STILLWATER",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "H706-16C",
+                "frame": "Antique Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "STINGRAY",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "103-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H103-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "STONE SHACK",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "862-02",
+                "frame": "Matte Black with Crystal tips",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B862-05",
+                "frame": "Matte Crystal with Dark Grey tips",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H862-10",
+                "frame": "Matte Havana Tortoise with Tan tips",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "S-TURNS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "872-02",
+                "frame": "Black with Crystal Interior",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B872-14",
+                "frame": "Dark Translucent Grey",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H872-10",
+                "frame": "Tortoise with Honey Crystal Interior",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "SUGAR BEACH",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "421-02",
+                "frame": "Gloss Black",
+                "lens": "Neutral Grey",
+                "price": "$94.50"
+            },
+            {
+                "styleCode": "H421-26",
+                "frame": "Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$94.50"
+            }
+        ]
+    },
+    {
+        "productName": "SUGAR CANE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "H783-24C",
+                "frame": "Transparent Mocha",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "R783-13B",
+                "frame": "Lilac Sunset",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "SWITCHBACKS",
+        "lensMaterial": "Polycarbonate",
+        "mauiEvolution": "",
+        "polycarbonate": "",
+        "mauiBrilliant": "",
+        "productVariants": [
+            {
+                "styleCode": "AL-C523",
+                "frame": "Lens Only",
+                "lens": "Optimum Clear",
+                "price": "$17.00"
+            },
+            {
+                "styleCode": "AL-G523",
+                "frame": "Lens Only",
+                "lens": "Neutral Grey",
+                "price": "$42.00"
+            },
+            {
+                "styleCode": "AL-H523",
+                "frame": "Lens Only",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$42.00"
+            },
+            {
+                "styleCode": "H523-26M",
+                "frame": "Matte Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "THE BIRD",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "835-02C",
+                "frame": "Dark Gunmetal with Black and Grey Temples",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "B835-17A",
+                "frame": "Chrome with Black and Blue Temples",
+                "lens": "Blue Hawaii",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "H835-16",
+                "frame": "Gold with Black Temples and Brown Rubber",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "GM835-15B",
+                "frame": "Black with Black and Khaki Temples",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "THE FLATS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "897-02",
+                "frame": "Black with Teal stripes",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B897-03",
+                "frame": "Navy with Light Blue",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "GM897-01",
+                "frame": "Brown with Mint",
+                "lens": "MAUIGreen\u00ae",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H897-10",
+                "frame": "Black with Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM897-04",
+                "frame": "Dark Grey with Brick Red",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "TIGER LILY",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS561-02",
+                "frame": "Gloss Black with Silver",
+                "lens": "Neutral Grey",
+                "price": "$204.50"
+            },
+            {
+                "styleCode": "HS561-10",
+                "frame": "Dark Tortoise with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$204.50"
+            }
+        ]
+    },
+    {
+        "productName": "TWIN FALLS",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "417-02J",
+                "frame": "Gloss Black Fade",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H417-26B",
+                "frame": "Rootbeer Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "417-02J15",
+                "frame": "Gloss Black Fade",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "417-02J20",
+                "frame": "Gloss Black Fade",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "417-02J25",
+                "frame": "Gloss Black Fade",
+                "lens": "Neutral Grey",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "H417-26B15",
+                "frame": "Rootbeer Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "H417-26B20",
+                "frame": "Rootbeer Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            },
+            {
+                "styleCode": "H417-26B25",
+                "frame": "Rootbeer Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$144.50"
+            }
+        ]
+    },
+    {
+        "productName": "TWO STEPS",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "GS863-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "HS863-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RS863-09",
+                "frame": "Transparent Pink",
+                "lens": "Maui Rose\u00ae",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "VALLEY ISLE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "780-02",
+                "frame": "Black Gloss",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B780-14",
+                "frame": "Translucent Grey",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "DBS780-03",
+                "frame": "Navy with Tortoise",
+                "lens": "Dual Mirror Blue to Silver",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H780-10",
+                "frame": "Tortoise",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "VIOLET LAKE",
+        "lensMaterial": "MauiBrilliant",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "B843-11",
+                "frame": "Transparent Grey with Silver",
+                "lens": "Blue Hawaii",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "GS843-02",
+                "frame": "Black with Gold",
+                "lens": "Neutral Grey",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "HS843-24A",
+                "frame": "Transparent Taupe with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$264.50"
+            },
+            {
+                "styleCode": "P843-09E",
+                "frame": "Transparent Pink with Rose Gold",
+                "lens": "MAUI Sunrise",
+                "price": "$264.50"
+            }
+        ]
+    },
+    {
+        "productName": "WAILUA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "+3.00 to -6.50",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "454-11",
+                "frame": "Translucent Grey",
+                "lens": "Neutral Grey",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "B454-03",
+                "frame": "Blue",
+                "lens": "Blue Hawaii",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "H454-01",
+                "frame": "Translucent Rootbeer",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$124.50"
+            },
+            {
+                "styleCode": "RM454-04T",
+                "frame": "Red and Black Tortoise",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$124.50"
+            }
+        ]
+    },
+    {
+        "productName": "WALAKA",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "885-17",
+                "frame": "Matte Titanium",
+                "lens": "Neutral Grey",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "B885-03",
+                "frame": "Dove Grey",
+                "lens": "Blue Hawaii",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "H885-01",
+                "frame": "Satin Sepia",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$149.50"
+            },
+            {
+                "styleCode": "RM885-02",
+                "frame": "Matte Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$149.50"
+            }
+        ]
+    },
+    {
+        "productName": "WANA",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "846-2M",
+                "frame": "Matte Black",
+                "lens": "Neutral Grey",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "B846-02C",
+                "frame": "Brushed Dark Gunmetal",
+                "lens": "Blue Hawaii",
+                "price": "$174.50"
+            },
+            {
+                "styleCode": "H846-01C",
+                "frame": "Brushed Chocolate",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$174.50"
+            }
+        ]
+    },
+    {
+        "productName": "WASSUP",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -3.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -3.50",
+        "productVariants": [
+            {
+                "styleCode": "123-02W",
+                "frame": "Matte Black Woodgrain",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "WEDGES",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -5.50",
+        "polycarbonate": "+3.00 to -5.50",
+        "mauiBrilliant": "+3.00 to -5.50",
+        "productVariants": [
+            {
+                "styleCode": "880-02",
+                "frame": "Black Gloss with Crystal interior",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "B880-03",
+                "frame": "Matte Black Fade to Blue",
+                "lens": "Blue Hawaii",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H880-10",
+                "frame": "Tortoise with Amber Interior",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "RM880-02A",
+                "frame": "Black",
+                "lens": "HAWAII LAVA\u2122",
+                "price": "$139.50"
+            }
+        ]
+    },
+    {
+        "productName": "WIKI WIKI",
+        "lensMaterial": "MauiPure",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "B246-17",
+                "frame": "Silver",
+                "lens": "Blue Hawaii",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "GS246-17",
+                "frame": "Silver",
+                "lens": "Neutral Grey",
+                "price": "$159.50"
+            },
+            {
+                "styleCode": "HS246-16",
+                "frame": "Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$159.50"
+            }
+        ]
+    },
+    {
+        "productName": "WOOD ROSE",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -6.50",
+        "polycarbonate": "",
+        "mauiBrilliant": "+3.00 to -6.50",
+        "productVariants": [
+            {
+                "styleCode": "B870-03",
+                "frame": "Navy with Silver",
+                "lens": "Blue Hawaii",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "GS870-02",
+                "frame": "Black Gloss with Dark Gunmetal",
+                "lens": "Neutral Grey",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "HS870-10",
+                "frame": "Tokyo Tortoise with Gold",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$189.50"
+            },
+            {
+                "styleCode": "RS870-09",
+                "frame": "Pink Tortoise with Rose Gold",
+                "lens": "Maui Rose\u00ae",
+                "price": "$189.50"
+            }
+        ]
+    },
+    {
+        "productName": "WORLD CUP",
+        "lensMaterial": "SuperThin Glass",
+        "mauiEvolution": "+3.00 to -4.50",
+        "polycarbonate": "+3.00 to -4.50",
+        "mauiBrilliant": "+3.00 to -4.50",
+        "productVariants": [
+            {
+                "styleCode": "266-02MR",
+                "frame": "Matte Black Rubber",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "266-03F",
+                "frame": "Marlin",
+                "lens": "Neutral Grey",
+                "price": "$139.50"
+            },
+            {
+                "styleCode": "H266-01",
+                "frame": "Chocolate Stripe Fade",
+                "lens": "HCL\u00ae Bronze",
+                "price": "$139.50"
+            }
+        ]
+    }
+]
